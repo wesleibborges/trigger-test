@@ -1,5 +1,3 @@
 # trigger-test
 
-Jenkins é top!
-Demais
-123
+Jenkins é ótimo!
